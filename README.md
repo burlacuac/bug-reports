@@ -35,7 +35,7 @@ The maximum intake values are interpreted as having passed the consumption limit
 2. Increase the number of coffee cups and cigarettes until a warning is given
 3. Modify the milligram values to the given maximum limit
 ### Expected result
-The maximum intake limit is not exceeded, and no warning is given
+The maximum intake limit is not exceeded, and no warning is given.
 ### Actual result
 User is warned that they have exceeded the limit.<br/>
 
