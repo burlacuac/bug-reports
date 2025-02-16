@@ -53,3 +53,40 @@ All background resources load successfully.
 Some of these resources return errors.<br/>
 
 ![Screenshot 2025-02-12 162016](https://github.com/user-attachments/assets/ef5d1e91-69df-42e7-a4b7-7535f8b71b28)
+## 5. Wrong grammar usage
+### Description
+The link and button of the lower-right cookie pop-up use incorrect grammar.
+### Steps to reproduce
+1. Visit https://juice-shop.herokuapp.com/#/login
+2. Notice any grammar mistakes in the cookie pop-up
+### Expected result
+Correct grammar is used throughout the pop-up.
+### Actual result
+The link and button do not use proper grammar.<br/>
+
+![Screenshot 2025-02-16 102130](https://github.com/user-attachments/assets/58923d72-e6ce-49c1-8fbf-3989e941c1e5)
+## 6. Website presentation problem
+### Description
+The presentation indicated by the Fieni website is not shown upon pressing the play button.
+### Steps to reproduce
+1. Visit https://fieni.ro
+2. Scroll down until you see "Clip de prezentare al Orașului Fieni"
+3. Click the play button
+### Expected result
+The button takes the user to the city presentation.
+### Actual result
+The play button does not work.<br/>
+
+![Screenshot 2025-02-16 102856](https://github.com/user-attachments/assets/958b7138-e98e-4d3e-901b-cd989bee4a18)
+## 7. Missing third challenge
+### Description
+Users can mistake the number of challenges due to a missing third challenge.
+### Steps to reproduce
+1. Visit http://testingchallenges.thetestingmap.org/index.php
+2. See the left menu for available challenges
+### Expected result
+User has 11 challenges to complete.
+### Actual result
+User has only 10 challenges due to a missing third challenge.<br/>
+
+![Screenshot 2025-02-16 103258](https://github.com/user-attachments/assets/65e1801d-a632-4692-bea6-d36b7c6d3793)
