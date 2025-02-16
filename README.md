@@ -37,7 +37,7 @@ The maximum intake values are interpreted as having passed the consumption limit
 ### Expected result
 The maximum intake limit is not exceeded, and no warning is given
 ### Actual result
-User is warned that they have exceeded the limit<br/>
+User is warned that they have exceeded the limit.<br/>
 
 ![Screenshot 2025-02-12 161520](https://github.com/user-attachments/assets/601469f6-a556-4e23-a45d-15bf075379b9)
 ## 4. Website resources errors
